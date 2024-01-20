@@ -4,14 +4,13 @@
 ---
 <h4 align="left">Технологии:</h4>
 <p align="left"> 
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/56/h/07d564cc70e29ca3f184523294545f8b.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/383/h/ccb79347a3ba4f05bfb3129dfd913fcf.svg" alt="Intellij IDEA" width="40" height="40"/></a>
-<a href="https://gradle.com/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/147/h/4e2b5444985e5c3a7f7b1df2b71046f1.svg" alt="gradle" width="40" height="40"/></a>
-<a href="https://https://github.com/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/247/h/fd6e833503e0e9255ae86ec12fcd6a82.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" alt="Intellij IDEA" width="40" height="40"/></a>
+<a href="https://gradle.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gradle" alt="gradle" width="40" height="40"/></a>
+<a href="https://https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="git" width="40" height="40"/></a>
 <a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://www.inlineicons.com/svg/Web/sql-file-format-symbol-svg-icon.svg" alt="sql" width="34" height="34"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://softsuave-assets.s3.amazonaws.com/images/2020/java/hibernate-logo.png" alt="hibernate" width="42" height="42"/></a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a> 
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="40" height="40"/></a> 
 
 <a href="https://ru.selenide.org/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/399/h/5d2c34e97efd8aff6f7f2c1d3c8c30b8.svg" alt="selenide" width="40" height="40"/></a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/178/h/765d78cae8cf8967a7124cb8636c72f8.svg" alt="selenium" width="40" height="40"/></a>
@@ -22,7 +21,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="34" height="34"/></a>
 
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/155/h/9b3a202b7545bfb958527fc1d9583eb5.svg" alt="jira" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/93/h/2ec41c19823d5239d3b6c540cfe97202.svg" alt="jenkins" width="40" height="40"/></a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/321/h/c8dff31ce0854741a2ba5feb45b40a3b.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://github.com/appium/appium-desktop" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/68/h/d5953e3d38225dd651184b4594889bea.svg" alt="appium" width="40" height="40"/></a>
 <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/299/h/318c85205ecd71efb889108bdbae5e7f.svg" alt="browserstack" width="40" height="40"/></a>
