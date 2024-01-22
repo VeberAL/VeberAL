@@ -28,6 +28,17 @@
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/428/h/c14aaadcc88c5e412b14dcfb7785dde5.svg" alt="rest assured" width="40" height="40"/></a>
 
 ---
+<h4 align="left">Сертификаты:</h4>
+<p align="left">
+<h5 
+
+<a href="https://stepik.org/cert/2337504">Тестирование ПО: Postman для тестирования API.</a>
+  
+<a href="https://stepik.org/cert/2337844">Jira: ведение задач на электронных досках.</a>
+
+<a href="https://stepik.org/cert/2337390">Интерактивный тренажер по SQL.</a></h5>
+
+---
 <h4 align="left">Связаться со мной:</h4>
 <p align="left"> 
   
