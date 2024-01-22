@@ -30,7 +30,7 @@
 
 ---
 
-<h4 align="left">Сертификаты курсов:</h4>
+<h4 align="left">Сертификаты:</h4>
 <p align="left">
   <h6 align="left">
 
