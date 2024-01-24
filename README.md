@@ -34,11 +34,11 @@
 <p align="left">
   <h6 align="left">
 
- <ul> <li> <a href="https://stepik.org/cert/2337504">Тестирование ПО: Postman для тестирования API.</a> </li>
+ <ul> <li> <a target="_blank" href="https://stepik.org/cert/2337504">Тестирование ПО: Postman для тестирования API.</a> </li>
    
-<li>  <a href="https://stepik.org/cert/2337844">Jira: ведение задач на электронных досках.</a> </li>
+<li>  <a target="_blank" href="https://stepik.org/cert/2337844">Jira: ведение задач на электронных досках.</a> </li>
    
-<li>  <a href="https://stepik.org/cert/2337390">Интерактивный тренажер по SQL.</a></li></ul></h6>
+<li>  <a target="_blank" href="https://stepik.org/cert/2337390">Интерактивный тренажер по SQL.</a></li></ul></h6>
 
 ---
 
