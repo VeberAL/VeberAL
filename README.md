@@ -32,13 +32,16 @@
 
 <h4 align="left">Сертификаты:</h4>
 <p align="left">
-  <h6 align="left">
-
- <ul> <li> <a target="_blank" href="https://stepik.org/cert/2337504">Тестирование ПО: Postman для тестирования API.</a> </li>
-   
-<li>  <a target="_blank" href="https://stepik.org/cert/2337844">Jira: ведение задач на электронных досках.</a> </li>
-   
-<li>  <a target="_blank" href="https://stepik.org/cert/2337390">Интерактивный тренажер по SQL.</a></li></ul></h6>
+<h6>
+<ul>    
+<li> <a target="_blank" href="https://stepik.org/cert/2337504">Тестирование ПО: Postman для тестирования API.</a> </li>  
+<li>  <a target="_blank" href="https://stepik.org/cert/2337844">Jira: ведение задач на электронных досках.</a> </li> 
+<li>  <a target="_blank" href="https://stepik.org/cert/2337390">Интерактивный тренажер по SQL.</a></li> 
+<li>  <a target="_blank" href="https://www.hackerrank.com/certificates/c88d4428a249">SQL(Basic).</a></li> 
+<li>  <a target="_blank" href="https://www.hackerrank.com/certificates/b045b4501069">Java(Basic).</a></li> 
+<li>  <a target="_blank" href="https://stepik.org/cert/2340386">HTML и CSS.</a></li>
+</ul>
+</h6>
 
 ---
 
