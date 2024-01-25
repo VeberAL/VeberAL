@@ -8,6 +8,8 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" alt="Intellij IDEA" width="40" height="40"/></a>
 <a href="https://gradle.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gradle" alt="gradle" width="40" height="40"/></a>
 <a href="https://https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="git" width="40" height="40"/></a>
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="36"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="36"/></a>
 <a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://www.inlineicons.com/svg/Web/sql-file-format-symbol-svg-icon.svg" alt="sql" width="34" height="34"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a> 
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="40" height="40"/></a> 
@@ -30,19 +32,19 @@
 
 ---
 
-<h4 align="left">Сертификаты:</h4>
+<h4 color: rgba(0,0,255,0.5); align="left">Сертификаты:</h4>
 <p align="left">
 <h6>
 <ul>    
-<li> <a target="_blank" href="https://stepik.org/cert/2337504">Тестирование ПО: Postman для тестирования API.</a> </li>  
-<li>  <a target="_blank" href="https://stepik.org/cert/2337844">Jira: ведение задач на электронных досках.</a> </li> 
-<li>  <a target="_blank" href="https://stepik.org/cert/2337390">Интерактивный тренажер по SQL.</a></li> 
-<li>  <a target="_blank" href="https://www.hackerrank.com/certificates/c88d4428a249">SQL(Basic).</a></li> 
-<li>  <a target="_blank" href="https://www.hackerrank.com/certificates/b045b4501069">Java(Basic).</a></li> 
-<li>  <a target="_blank" href="https://stepik.org/cert/2340386">HTML и CSS.</a></li>
+<li> <a href="https://stepik.org/cert/2337504" target="_blank">Тестирование ПО: Postman для тестирования API.</a> </li>  
+<li>  <a href="https://stepik.org/cert/2337844" target="_blank">Jira: ведение задач на электронных досках.</a> </li> 
+<li>  <a href="https://stepik.org/cert/2337390" target="_blank">Интерактивный тренажер по SQL.</a></li> 
+<li>  <a href="https://www.hackerrank.com/certificates/c88d4428a249" target="_blank">SQL(Basic).</a></li> 
+<li>  <a href="https://www.hackerrank.com/certificates/b045b4501069" target="_blank">Java(Basic).</a></li> 
+<li>  <a href="https://stepik.org/cert/2340386" target="_blank">HTML и CSS.</a></li>
 </ul>
 </h6>
-
+  
 ---
 
 <h4 align="left">Связаться со мной:</h4>
