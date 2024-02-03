@@ -37,10 +37,9 @@
 <h6>
 <ul>    
 <li>  <a href="https://stepik.org/course/171826" target="_blank">Тестирование ПО с нуля.</a> </li>
-<li>  <a href="https://stepik.org/cert/2337504" target="_blank">Тестирование ПО: Postman для тестирования API.</a> </li>  
-<li>  <a href="https://stepik.org/cert/2337844" target="_blank">Jira: ведение задач на электронных досках.</a> </li> 
-<li>  <a href="https://www.hackerrank.com/certificates/c88d4428a249" target="_blank">SQL (Basic).</a> | <a href="https://stepik.org/cert/2337390" target="_blank">Интерактивный тренажер по SQL.</a> </li> 
+<li>  <a href="https://stepik.org/cert/2337504" target="_blank">Postman для тестирования API.</a> | <a href="https://stepik.org/cert/2337844" target="_blank">Jira.</a> </li> 
 <li>  <a href="https://www.hackerrank.com/certificates/b045b4501069" target="_blank">Java (Basic).</a> | <a href="https://stepik.org/cert/2344090" target="_blank">Java. Базовый курс.</a> </li> 
+<li>  <a href="https://www.hackerrank.com/certificates/c88d4428a249" target="_blank">SQL (Basic).</a> | <a href="https://stepik.org/cert/2337390" target="_blank">Интерактивный тренажер по SQL.</a> </li> 
 <li>  <a href="https://stepik.org/cert/2340386" target="_blank">HTML, CSS.</a> | <a href="https://stepik.org/cert/2342834" target="_blank">HTML, CSS, JS.</a> </li>
 <li>  <a href="https://practicum.yandex.ru/git-basics/" target="_blank">Основы работы с GIT.</a> </li>
 </ul>
