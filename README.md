@@ -1,5 +1,5 @@
 
-<h4 align="left">Привет, я занимаюсь автотестированием на Java. Начал свой путь в QA работая в ракетно-космической отрасли и осуществлял ручное и полуавтоматизированное тестирование программного обеспечения для систем управления Космических аппаратов. Имею высшее образование Московского Авиационного Института с квалификацией инженер, ранее занимался фрилансом, программируя на языках C++, Assembler и Java, а в данное время прохожу курсы автотестировщика и ищу работу по данному направлению.</h4>
+<h4 align="left">Привет, я занимаюсь автотестированием на Java. Начал свой путь в QA работая в ракетно-космической отрасли и осуществлял ручное тестирование программного обеспечения для систем управления Космических аппаратов. Имею высшее образование Московского Авиационного Института с квалификацией инженер, ранее занимался фрилансом, программируя на языках C++, Assembler и Java, а в данное время прохожу курсы автотестировщика и ищу работу по данному направлению.</h4>
 
 ---
 <h4 align="left">Технологии:</h4>
@@ -32,16 +32,17 @@
 
 ---
 
-<h4 color: rgba(0,0,255,0.5); align="left">Сертификаты:</h4>
+<h4 color: rgba(0,0,255,0.5); align="left">Пройденные курсы:</h4>
 <p align="left">
 <h6>
 <ul>    
-<li> <a href="https://stepik.org/cert/2337504" target="_blank">Тестирование ПО: Postman для тестирования API.</a> </li>  
+<li>  <a href="https://stepik.org/course/171826" target="_blank">Тестирование ПО с нуля.</a> </li>
+<li>  <a href="https://stepik.org/cert/2337504" target="_blank">Тестирование ПО: Postman для тестирования API.</a> </li>  
 <li>  <a href="https://stepik.org/cert/2337844" target="_blank">Jira: ведение задач на электронных досках.</a> </li> 
-<li>  <a href="https://stepik.org/cert/2337390" target="_blank">Интерактивный тренажер по SQL.</a></li> 
-<li>  <a href="https://www.hackerrank.com/certificates/c88d4428a249" target="_blank">SQL(Basic).</a></li> 
-<li>  <a href="https://www.hackerrank.com/certificates/b045b4501069" target="_blank">Java(Basic).</a></li> 
-<li>  <a href="https://stepik.org/cert/2340386" target="_blank">HTML и CSS.</a></li>
+<li>  <a href="https://www.hackerrank.com/certificates/c88d4428a249" target="_blank">SQL (Basic).</a> | <a href="https://stepik.org/cert/2337390" target="_blank">Интерактивный тренажер по SQL.</a> </li> 
+<li>  <a href="https://www.hackerrank.com/certificates/b045b4501069" target="_blank">Java (Basic).</a> | <a href="https://stepik.org/cert/2344090" target="_blank">Java. Базовый курс.</a> </li> 
+<li>  <a href="https://stepik.org/cert/2340386" target="_blank">HTML, CSS.</a> | <a href="https://stepik.org/cert/2342834" target="_blank">HTML, CSS, JS.</a> </li>
+<li>  <a href="https://practicum.yandex.ru/git-basics/" target="_blank">Основы работы с GIT.</a> </li>
 </ul>
 </h6>
   
