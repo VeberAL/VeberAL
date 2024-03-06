@@ -49,7 +49,7 @@
 </h6>
   
 ---
-![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=VeberAL&show_icons=true&theme=radical)
+![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=VeberAL&show_icons=true&theme=github_dark)
 ---
 <h4 align="left">Связаться со мной:</h4>
 <p align="left"> 
