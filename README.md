@@ -3,34 +3,34 @@
 ---
 <h4 align="left">Языки:</h4>
 <p align="left"> 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg" alt="java" width="40" height="40"/></a>
-<a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/JAnq4-8xXuAx2mCQHhghic8lYb9-BN0gjAVrbiBufo0THcPsXVoOm_U3bUO70nAPjLw=w80" alt="sql" width="40" height="40"/></a>
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="html" width="40" height="40"/></a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="css" width="40" height="40"/></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg" alt="java" title="Java" width="40" height="40"/></a>
+<a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/JAnq4-8xXuAx2mCQHhghic8lYb9-BN0gjAVrbiBufo0THcPsXVoOm_U3bUO70nAPjLw=w80" alt="sql" title="SQL" width="40" height="40"/></a>
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="html" title="HTML" width="40" height="40"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="css" title="CSS" width="40" height="40"/></a>
   
 <h4 align="left">Технологии:</h4>
 <p align="left"> 
 
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" alt="Intellij IDEA" width="40" height="40"/></a>
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/390/h/b90dddb8bcf49db3d4ea4647f02cb479.svg" alt="junit" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" alt="git" width="40" height="40"/></a>
-<a href="https://gradle.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gradle" alt="gradle" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a> 
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="40" height="40"/></a> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" alt="Intellij IDEA" title="Intellij IDEA" width="40" height="40"/></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/390/h/b90dddb8bcf49db3d4ea4647f02cb479.svg" alt="junit"  title="JUnit 5" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" alt="git" title="Git" width="40" height="40"/></a>
+<a href="https://gradle.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gradle" alt="gradle" title="Gradle" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" title="PostgreSQL" width="40" height="40"/></a> 
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" title="Hibernate" width="40" height="40"/></a> 
 
-<a href="https://ru.selenide.org/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/399/h/5d2c34e97efd8aff6f7f2c1d3c8c30b8.svg" alt="selenide" width="40" height="40"/></a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/178/h/765d78cae8cf8967a7124cb8636c72f8.svg" alt="selenium" width="40" height="40"/></a>
-<a href="https://aerokube.com/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/131/h/40ba0a9a145340d913192bff0f6c6b77.svg" alt="selenoid" width="40" height="40"/></a>
-<a href="https://github.com/allure-framework" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/333/h/32108dd5b6c9c9c3cf4220fe6b2cc7fc.svg" alt="allure" width="40" height="40"/></a>
-<a href="https://github.com/allure-framework" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/185/h/c79ab1cf937ba73a952a0a02a11e9469.svg" alt="allure" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Postman.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://ru.selenide.org/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/399/h/5d2c34e97efd8aff6f7f2c1d3c8c30b8.svg" alt="selenide" title="Selenide" width="40" height="40"/></a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/178/h/765d78cae8cf8967a7124cb8636c72f8.svg" alt="selenium" title="Selenium" width="40" height="40"/></a>
+<a href="https://aerokube.com/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/131/h/40ba0a9a145340d913192bff0f6c6b77.svg" alt="selenoid" title="Selenoid" width="40" height="40"/></a>
+<a href="https://github.com/allure-framework" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/333/h/32108dd5b6c9c9c3cf4220fe6b2cc7fc.svg" alt="allure" title="Allure Reports" width="40" height="40"/></a>
+<a href="https://github.com/allure-framework" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/185/h/c79ab1cf937ba73a952a0a02a11e9469.svg" alt="allure" title="Allure Notifications" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Postman.svg" alt="postman" title="Postman" width="40" height="40"/></a>
 
-<a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/155/h/9b3a202b7545bfb958527fc1d9583eb5.svg" alt="jira" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://github.com/appium/appium-desktop" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/68/h/d5953e3d38225dd651184b4594889bea.svg" alt="appium" width="40" height="40"/></a>
-<a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/299/h/318c85205ecd71efb889108bdbae5e7f.svg" alt="browserstack" width="40" height="40"/></a>
-<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/428/h/c14aaadcc88c5e412b14dcfb7785dde5.svg" alt="rest assured" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/155/h/9b3a202b7545bfb958527fc1d9583eb5.svg" alt="jira" title="Jira" width="40" height="40"/></a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" title="Jenkins" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg" alt="docker" title="Docker" width="40" height="40"/></a>
+<a href="https://github.com/appium/appium-desktop" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/68/h/d5953e3d38225dd651184b4594889bea.svg" alt="appium" title="Appium" width="40" height="40"/></a>
+<a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/299/h/318c85205ecd71efb889108bdbae5e7f.svg" alt="browserstack" title="Browserstack" width="40" height="40"/></a>
+<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"><img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/428/h/c14aaadcc88c5e412b14dcfb7785dde5.svg" alt="rest assured" title="Rest assured" width="40" height="40"/></a>
 
 
 ---
