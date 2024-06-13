@@ -35,6 +35,17 @@
 
 
 ---
+<h4 color: rgba(0,0,255,0.5); align="left">Портфолио:</h4>
+<h6>
+<ul> 
+<li>  <a href="https://github.com/VeberAL/stepicTests" target="_blank">Проект автотестирования UI веб-сайта.</a> </li> 
+<li>  <a href="https://github.com/VeberAL/Reqres_RestApi_Tests" target="_blank">Проект автотестирования API веб-сайта.</a> </li> 
+<li>  <a href="https://github.com/VeberAL/WikiOnboardingMobileTests" target="_blank">Проект автотестирования мобильного веб-приложения.</a> </li>  
+<li>  <a href="https://github.com/VeberAL/ManualTests" target="_blank">Проект ручного исследовательского тестирования веб-сайта.</a> </li>
+</ul>
+</h6>
+
+---
 
 <h4 color: rgba(0,0,255,0.5); align="left">Пройденные курсы:</h4>
 <p align="left">
