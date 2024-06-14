@@ -39,22 +39,27 @@
 
 <table>
 <tbody>
+
 <tr>
-<td><img src="https://fastly.4sqi.net/img/general/600x600/451403160_uNvCmrIsbkp7XjtEIu0Nf9I4XrAUC-CHwG6j-UuagNM.jpg" width="40" height="40"/></td>
+<td><img src="psb.png" width="40" height="40"/></td>
 <td><a href="https://github.com/VeberAL/PSBbankMobileTests" target="_blank">Проект автотестирования мобильного приложения PSB-Mobile.</a> </td>
 </tr>
-<tr>
-<td><img src="https://yt3.ggpht.com/a/AGF-l78B9AZA7WrRqHBgqMPC7FgMeMx1blZE2dSnJg=s900-c-k-c0xffffffff-no-rj-mo" width="40" height="40"/></td>
-<td><a href="https://github.com/VeberAL/stepicTests" target="_blank">Проект автотестирования UI веб-сайта.</a> </li></td>
-</tr>
+
 <tr>
 <td><img src="https://reqres.in/img/logo.png" width="40" height="30"/>    </td>    
 <td><a href="https://github.com/VeberAL/Reqres_RestApi_Tests" target="_blank">Проект автотестирования API веб-сайта.</a></td>
 </tr>
+
 <tr>
-<td><img src="https://play-lh.googleusercontent.com/mqIbXkDH2SkUc8v8cZHmARfEn24JFzi6AqgaBCy2NIl1Cuc-N8WBbqQ88O6tZ_UGQJc" width="40" height="40"/></td></td>
+<td><img src="qa_icon_182956.png" width="40" height="40"/></td>
+<td><a href="https://github.com/VeberAL/stepicTests" target="_blank">Проект автотестирования UI веб-сайта.</a> </li></td>
+</tr>
+
+<tr>
+<td><img src="ama.png" width="40" height="40"/></td></td>
 <td><a href="https://github.com/VeberAL/ManualTests" target="_blank">Проект ручного исследовательского тестирования веб-сайта.</a> </li></td>
 </tr>   
+
 </tbody>
 </table>
 
