@@ -47,7 +47,7 @@
 
 <tr>
 <td><img src="https://reqres.in/img/logo.png" width="40" height="30"/>    </td>    
-<td><a href="https://github.com/VeberAL/Reqres_RestApi_Tests" target="_blank">Проект автотестирования API веб-сайта.</a></td>
+<td><a href="https://github.com/VeberAL/ReqresApiTests" target="_blank">Проект автотестирования API веб-сайта.</a></td>
 </tr>
 
 <tr>
