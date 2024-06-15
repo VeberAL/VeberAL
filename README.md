@@ -41,6 +41,11 @@
 <tbody>
 
 <tr>
+<td><img src="https://img.utdstc.com/icon/815/96c/81596c8c11a82fa2cc6af3d7d6c375f5a769654ef1ebd5d393998e8200655c05:200" width="40" height="40"/></td>
+<td><a href="https://github.com/VeberAL/YoutubeMusicUITests" target="_blank">Проект автотестирования UI веб-сайта Youtube music.</a> </li></td>
+</tr>
+
+<tr>
 <td><img src="psb.png" width="40" height="40"/></td>
 <td><a href="https://github.com/VeberAL/PSBbankMobileTests" target="_blank">Проект автотестирования мобильного приложения PSB-Mobile.</a> </td>
 </tr>
@@ -51,12 +56,7 @@
 </tr>
 
 <tr>
-<td><img src="qa_icon_182956.png" width="40" height="40"/></td>
-<td><a href="https://github.com/VeberAL/stepicTests" target="_blank">Проект автотестирования UI веб-сайта.</a> </li></td>
-</tr>
-
-<tr>
-<td><img src="ama.png" width="40" height="40"/></td></td>
+<td><img src="qa_icon_182956.png" width="40" height="40"/></td></td>
 <td><a href="https://github.com/VeberAL/ManualTests" target="_blank">Проект ручного исследовательского тестирования веб-сайта.</a> </li></td>
 </tr>   
 
