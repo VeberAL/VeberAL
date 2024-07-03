@@ -68,7 +68,8 @@
 <h4 color: rgba(0,0,255,0.5); align="left">Пройденные курсы:</h4>
 <p align="left">
 <h6>
-<ul>    
+<ul> 
+<li>  <a href="https://drive.google.com/file/d/1lv6oug9v1a5MSnFv35P3Qt518fjW3RFq/view?usp=sharing" target="_blank">QA.guru. Инженер по автоматизации тестирования на Java.</a> </li>  
 <li>  <a href="https://stepik.org/course/171826" target="_blank">Тестирование ПО с нуля.</a> </li>
 <li>  <a href="https://stepik.org/cert/2337504" target="_blank">Postman для тестирования API.</a> | <a href="https://stepik.org/cert/2337844" target="_blank">Jira.</a> </li> 
 <li>  <a href="https://www.hackerrank.com/certificates/b045b4501069" target="_blank">Java (Basic).</a> | <a href="https://stepik.org/cert/2344090" target="_blank">Java. Базовый курс.</a> </li> 
